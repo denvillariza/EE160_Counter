@@ -4,6 +4,11 @@ This is an Assembly project for EE160
 
 PIC18F4550 was used
 
+Coded using MPLAB
+
+Uploaded the Code to microcontroller using Pickit 3 Programmer // Very recommended if you are using PICKit 3 Clones
+
+
 Function of Code:
   - The number for the minute digit is incremented for every 'ADD'(HIGH) button is pressed. Pull-down resistor was used in the fabrication of the system
   
